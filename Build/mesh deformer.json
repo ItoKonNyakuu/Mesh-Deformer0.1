@@ -1,0 +1,16 @@
+{
+"companyName": "F-lab",
+"productName": "mesh deformer",
+"productVersion": "0.1",
+"dataUrl": "mesh deformer.data.unityweb",
+"wasmCodeUrl": "mesh deformer.wasm.code.unityweb",
+"wasmFrameworkUrl": "mesh deformer.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.18f1"
+}
